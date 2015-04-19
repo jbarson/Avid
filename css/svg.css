@@ -1,0 +1,429 @@
+.svgAvidDirectionLetter {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 100%;
+    text-anchor: middle;
+    letter-spacing: 0;
+    word-spacing: 0;
+    fill: #8b0304;
+    fill-opacity: 1;
+    stroke: none;
+    font-family: sans-serif;
+}
+
+.svgAvidDirectionLetterPair {
+    font-size: 16px;
+    font-style: italic;
+    font-weight: lighter;
+    line-height: 100%;
+    text-anchor: middle;
+    letter-spacing: 0;
+    word-spacing: 0;
+    fill: #eeeeee;
+    fill-opacity: 1;
+    stroke: none;
+    font-family: sans-serif;
+}
+
+.svgIconPlate {
+    fill: #dddddd;
+    fill-opacity: 1;
+    stroke: #999999;
+    stroke-opacity: 1;
+    stroke-width: 2;
+}
+
+.svgFishbowlWindow {
+    fill: #999999;
+    fill-opacity: 0.75;
+    fill-rule: nonzero;
+    stroke: none;
+}
+
+.svgFishbowlWindowFrame {
+    fill: none;
+    stroke: #cececd;
+    stroke-width: 1;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 3;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgCrumbPUGp1 {
+    fill: #000000;
+    fill-opacity: 1;
+    stroke: #000000;
+    stroke-width: 1;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-opacity: 1;
+}
+
+.svgCrumbPUGp2 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 1.60000002;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgCrumbPUGp3 {
+    fill: none;
+    stroke: #8d47dd;
+    stroke-width: 0.80000001;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgCrumbPDGp1 {
+    fill: #707070;
+    fill-opacity: 1;
+    stroke: #707070;
+    stroke-width: 1;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-opacity: 1;
+}
+
+.svgCrumbPDGp2 {
+    fill: none;
+    stroke: #707070;
+    stroke-width: 1.60000002;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgCrumbPDGp3 {
+    fill: none;
+    stroke: #b491db;
+    stroke-width: 0.80000001;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgUndoGp1 {
+    fill: #ffffff;
+    fill-opacity: 0.05;
+    stroke: none;
+}
+
+.svgUndoGp2 {
+    fill: #fcd7ca;
+    fill-opacity: 1;
+    stroke: #aa0000;
+    stroke-width: 3;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgUndoGp3 {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 125%;
+    letter-spacing: 0;
+    word-spacing: 0;
+    fill: #aa0000;
+    fill-opacity: 1;
+    stroke: none;
+    font-family: sans-serif;
+}
+
+.svgCloseGp1 {
+    fill: #e80000;
+    fill-opacity: 1;
+    stroke: #000000;
+    stroke-width: 0.40000001;
+    stroke-linecap: round;
+    stroke-miterlimit: 12.60000038;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgCloseGp2 {
+    font-size: 39px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    line-height: 125%;
+    letter-spacing: 0;
+    word-spacing: 0;
+    text-anchor: middle;
+    fill: #ffffff;
+    fill-opacity: 1;
+    stroke: none;
+    font-family: sans-serif;
+}
+
+.svgBearingSelectGp3 {
+    fill: #282112;
+    fill-rule: evenodd;
+}
+
+.svgBearingSelectGp4 {
+    fill: #ffffff;
+}
+
+.svgBearingSelectGp5 {
+    fill: #ffffff;
+    fill-rule: evenodd;
+    stroke: #282112;
+    stroke-width: 0.75;
+}
+
+.svgClearBearingGp2 {
+    fill: #ffffff;
+    fill-opacity: 0.05;
+    stroke: none;
+}
+
+.svgClearBearingGp3 {
+    fill: #fcd7ca;
+    fill-opacity: 1;
+    stroke: #aa0000;
+    stroke-width: 3;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgClearBearingGp4 {
+    fill: none;
+    stroke: #aa0000;
+    stroke-width: 2.45406866;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgRotateGp1 {
+    fill: #292929;
+    fill-opacity: 1;
+    stroke: #292929;
+    stroke-width: 2.5;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgRotateGp2 {
+    fill: #ffffff;
+    fill-opacity: 1;
+    stroke: none;
+}
+
+.svgRotateGp3 {
+    fill: none;
+    stroke: #292929;
+    stroke-width: 0.44220546;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgRotateGp4 {
+    fill: #292929;
+    fill-opacity: 1;
+    stroke: #292929;
+    stroke-width: 1.29999995;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgRotateGp5 {
+    font-size: 9px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    line-height: 125%;
+    letter-spacing: 0;
+    word-spacing: 0;
+    text-anchor: middle;
+    fill: #000000;
+    fill-opacity: 1;
+    stroke: none;
+    font-family: sans-serif;
+}
+
+.svgRotateGp6 {
+    fill: #ffffff;
+    fill-opacity: 0.05;
+    stroke: none;
+}
+
+.svgFishbowlSelectGp2 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 2;
+}
+
+.svgFishbowlSelectGp3 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 0.91131395;
+}
+
+.svgFishbowlSelectGp4 {
+    fill: none;
+    stroke: #e02126;
+    stroke-width: 2;
+}
+
+.svgFishbowlSelectGp5 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 0.91139328;
+}
+
+.svgFishbowlSelectGp6, .svgFishbowlSelectGp7 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 0.91139883;
+}
+
+.svgAxisCircle {
+    fill: none;
+    stroke: #808080;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-opacity: 1;
+}
+
+.svgAxisPath {
+    fill: none;
+    stroke: #808080;
+    stroke-miterlimit: 3.25;
+}
+
+.svgAxisLine {
+    fill: none;
+    stroke: #808080;
+    stroke-linecap: square;
+    stroke-miterlimit: 3.25;
+}
+
+.svgAxisPolygon {
+    fill: none;
+    stroke: #808080;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.svgAxisEllipse {
+    fill: #808080;
+}
+
+.svgWindow {
+    opacity: 0.75;
+    fill-opacity: 0.05;
+    fill: #ffffff;
+    stroke: #ed1c24;
+    stroke-width: 0.99250001;
+}
+
+.svgEvent {
+    fill: #78f000;
+    fill-opacity: 0.05;
+    stroke: #78f000;
+    stroke-opacity: 1;
+    stroke-width: 1.5;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+}
+
+.svgBearingCircle {
+    fill: none;
+    stroke: #aa0000;
+    stroke-width: 1;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-opacity: 1;
+}
+
+.svgBearingText {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 125%;
+    letter-spacing: 0;
+    word-spacing: 0;
+    fill: #aa0000;
+    fill-opacity: 1;
+    stroke: none;
+    font-family: serif;
+}
+
+.svgBumper {
+    opacity: 0.75;
+    fill: #7b6dfc;
+    fill-opacity: 0;
+    stroke: #7b6dfc;
+    stroke-opacity: 0;
+    stroke-width: 0.99250001;
+}
+
+.svgNoFillNoStroke {
+    fill: none;
+    stroke: none;
+}
+
+.svgFishbowlNose {
+    fill: #292929;
+    fill-opacity: 1;
+    fill-rule: nonzero;
+    stroke: none;
+}
+
+.svgFishbowlLeft, .svgFishbowlTail {
+    fill: #292929;
+    fill-opacity: 1;
+    fill-rule: nonzero;
+    stroke: none;
+}
+
+.svgFishbowlRightGp1 {
+    fill: #292929;
+    fill-opacity: 1;
+    fill-rule: nonzero;
+    stroke: none;
+}
+
+.svgFishbowlRightGp2 {
+    fill: #ffff2e;
+    fill-opacity: 0.60317461;
+    stroke: #292929;
+    stroke-width: 2.5;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+}
+
+.svgFishbowlSelect {
+    float: right;
+    margin-right: 0;
+}
+
+.svgAvidWrapper {
+    background-color: #ffffff;
+    background-size: 100%;
+}
+
