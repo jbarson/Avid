@@ -1,6 +1,6 @@
 /**
- * The AVID Assistant is Copyright 2014 Ad Astra Games. The AVID and related iconography are Copyright 2004 Ad Astra Games and are used with permission.
- */
+ * The AVID Assistant is Copyright 2014 Ad Astra Games.
+ * */
 
 /**
  * On refresh, some browsers preserve the state of the global AVID variable.

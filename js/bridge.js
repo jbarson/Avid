@@ -32,6 +32,7 @@ BRIDGE.currentRosterId = null;
 BRIDGE.editedShip = null;
 BRIDGE.editedShipOriginalId = null;
 
+//JB presentation with logic
 BRIDGE.colorSelected = "#dddddd";
 BRIDGE.colorNotSelectedEven = "#edf9fc";
 BRIDGE.colorNotSelectedOdd = "#dcf2f8";
@@ -565,7 +566,7 @@ BRIDGE.createNewShip = function () {
   newShip.targetBearing = BEAR.makeBearingCopy(BEAR.blankBearing);
   newShip.movementModel = AVID.defaultMovementModel;
   newShip.avidACoordinate = 0;
-  newShip.hexagonColor = AVID.hexagonColorRed;
+  newShip.hexagonColor = AVID.hexagonColorBlue;
   newShip.directSelects = {distDH: "0", distDV: "0"};
   newShip.isNew = true;
 
@@ -1472,7 +1473,7 @@ BRIDGE.clickedSSLI = function (evt) {
 
 BRIDGE.selectedBackgroundColor = function (ctrlColor) {
   var ctrlDir = document.getElementById("initialShipDirection");
-  ctrlDir.value = (ctrlColor.value === "red" ? "000" : "180");
+  ctrlDir.value = (ctrlColor.value === "red" ? "180" : "0");
   return true;
 };
 

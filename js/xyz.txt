@@ -1,0 +1,31 @@
+Comparing files bridge.js and ..\..\..\AVIDASST\ASSETS\WWW\JS\BRIDGE.JS
+***** bridge.js
+     *   "nothing to chooose from" or "choose nothing line".  Choose the minimum of
+     *   the actual line count and five lines.  The dialog is sized to show up to
+     *   that many lines and then the UL scrolls within the dialog.
+     * * The trailing section of dialog is needed to complete the effect.  Guesswork here.
+***** ..\..\..\AVIDASST\ASSETS\WWW\JS\BRIDGE.JS
+     *   "nothing to chooose from" or "choose nothing line".  Choose the minimum of
+     *   the actual line count and five lines.
+     * * The trailing section of dialog is needed to complete the effect.  Guesswork here.
+*****
+
+***** bridge.js
+
+    /*
+     * There are some devices, such as smartphones, with severe form factors.
+     * The picklist dialog would extend across the width.  Fix that by
+     * forcing the dialog to be narrower.
+     */
+    var avidWrapper = document.getElementById("avidWrapper");
+    var eleDlg = document.getElementById("divSimilarShipsEntryDialog");
+
+    if(eleDlg.clientWidth > avidWrapper.clientWidth) {
+***** ..\..\..\AVIDASST\ASSETS\WWW\JS\BRIDGE.JS
+
+    var avidWrapper = document.getElementById("avidWrapper");
+        var eleDlg = document.getElementById("divSimilarShipsEntryDialog");
+        
+    if(eleDlg.clientWidth > avidWrapper.clientWidth) {
+*****
+
